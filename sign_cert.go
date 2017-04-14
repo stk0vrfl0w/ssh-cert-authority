@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"github.com/cloudtools/ssh-cert-authority/client"
 	"github.com/cloudtools/ssh-cert-authority/util"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"golang.org/x/crypto/ssh"
 	"io/ioutil"
 	"net"

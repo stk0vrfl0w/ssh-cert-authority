@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/cloudtools/ssh-cert-authority/util"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"os"
 )
 

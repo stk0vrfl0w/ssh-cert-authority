@@ -13,7 +13,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/ec2metadata"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/kms"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"golang.org/x/crypto/ssh"
 	"io/ioutil"
 	"os"
